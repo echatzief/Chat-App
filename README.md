@@ -20,8 +20,8 @@
 
 * If you can install properly this prerequisites then you can run the   project easily nothing more is expected.
 
-#Author
+# Author
 * Author: Lefteris Chatziefraimidis
-#License
+# License
 
 	
