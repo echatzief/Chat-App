@@ -1,0 +1,16 @@
+.containerCustom{
+  background: #3B404F;
+  padding: 10%;
+}
+.inputCustom{
+  background:#FFF;
+  color:black;
+}
+.logBut{
+  background:#FFF;
+  color:black;
+}
+.logBut:hover{
+  background:#3B404F;
+  color:#FFF;
+}

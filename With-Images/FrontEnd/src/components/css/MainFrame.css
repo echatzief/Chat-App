@@ -1,0 +1,20 @@
+/* The title when it shows the current selected user */
+.userTitle{
+  color:#FFF;
+  background: #099588;
+}
+
+/* Arrow */
+i {
+  border: solid #FFF;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 10px;
+}
+/* Arrow  right*/
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}

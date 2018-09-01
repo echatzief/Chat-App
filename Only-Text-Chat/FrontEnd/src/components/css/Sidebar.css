@@ -1,0 +1,37 @@
+.sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y:auto;
+    background: #223F67;
+    /* top layer */
+    z-index: 9999;
+}
+/* Arrow */
+i {
+  border: solid #FFF;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px;
+}
+/* Arrow  left*/
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+/* The logout button at the sidebar */
+.logoutButton{
+  margin-top: 4%;
+  margin-left: 4%;
+}
+/*Li at the active list */
+.liDes{
+  color:#FFF;
+  margin-left: 4%;
+}

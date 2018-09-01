@@ -1,0 +1,19 @@
+.messageDiv{
+  position: absolute;
+  margin: auto;
+  top: 25%;
+  right:0;
+  bottom: 25%;
+  left: 0;
+  padding-top:30%;
+}
+.overlayClose{
+  background: #FFF;
+  border: 1px solid black;
+  color:black;
+}
+.overlayClose:hover{
+  background: #3B404F;
+  border:1px solid #3B404F;
+  color:#FFF;
+}
